@@ -1,0 +1,6 @@
+{
+  "name": "AnimeX 动画股票交易所 - 季度新番模拟股市",
+  "description": "沉浸式每季度日本新番动画模拟股票交易所，提供实时行情走势图、新番IPO认购、做多做空交易、涨跌停熔断机制与热门动画排行榜。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
